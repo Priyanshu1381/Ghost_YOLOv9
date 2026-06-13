@@ -112,3 +112,9 @@ This notebook converts standard YOLOv9 training into a Ghost YOLO variant by:
 - collecting clean epoch-level metrics for presentation
 - saving analysis plots and inference outputs
 - supporting both video prediction and ByteTrack-based tracking
+
+
+<img width="887" height="530" alt="ghostyolo acthitectue" src="https://github.com/user-attachments/assets/678caf3a-967d-43cd-863a-67c8e2995a44" />
+<img width="3000" height="2250" alt="confusion_matrix (1)" src="https://github.com/user-attachments/assets/ca694e91-806b-41f6-ae4b-dd4f6e4e45b0" />
+<img width="977" height="185" alt="ghostyolocomparision" src="https://github.com/user-attachments/assets/0bd96733-7f93-4da6-a031-e3574f808bbe" />
+
